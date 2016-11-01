@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import subprocess, time
-print "Otomatik Squid Proxy Kurulumu, 3128 stock port üzerine.\n"
+print "Otomatik Squid Proxy Kurulumu, 3128 stock port uzerine.\n"
 print "https://github.com/furkansandal https://fb.me/Par4noiD"
 s=subprocess
 s.call(["sudo", "apt-get", "update"])
